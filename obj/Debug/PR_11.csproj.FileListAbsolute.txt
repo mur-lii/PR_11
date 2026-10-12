@@ -1,0 +1,7 @@
+C:\Users\kuzin\Desktop\Лис\PR_11\bin\Debug\PR_11.exe.config
+C:\Users\kuzin\Desktop\Лис\PR_11\bin\Debug\PR_11.exe
+C:\Users\kuzin\Desktop\Лис\PR_11\bin\Debug\PR_11.pdb
+C:\Users\kuzin\Desktop\Лис\PR_11\obj\Debug\PR_11.csproj.AssemblyReference.cache
+C:\Users\kuzin\Desktop\Лис\PR_11\obj\Debug\PR_11.csproj.CoreCompileInputs.cache
+C:\Users\kuzin\Desktop\Лис\PR_11\obj\Debug\PR_11.exe
+C:\Users\kuzin\Desktop\Лис\PR_11\obj\Debug\PR_11.pdb
